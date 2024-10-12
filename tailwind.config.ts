@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        brand_bg: "var(--brand-bg)",
+        primary: "var(--primary)",
+        secondary: "var(--secondary)",
       },
     },
   },
