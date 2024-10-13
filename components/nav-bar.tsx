@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const NavBar = () => {
   return (
-    <div className="w-full fixed flex justify-between px-44 my-11 h-14">
+    <div className="w-full fixed flex justify-between z-50 px-44 my-11 h-14">
       <Image
         src="/logo_coffe.svg"
         alt="logo"
